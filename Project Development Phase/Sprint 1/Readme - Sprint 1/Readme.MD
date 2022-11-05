@@ -16,7 +16,8 @@ The below listed are the tasks of Sprint 1
 
 
 ## Our Workspace
-![Alt text](images/1.jpeg)
+![Alt text](../Readme-Sprint1/images/1.jpeg
+)
 
 
 ## BurnDown Chart
