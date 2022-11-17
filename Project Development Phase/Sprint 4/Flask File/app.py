@@ -32,9 +32,6 @@ def l():
     return render_template('Launch.html')#rendering the home page
 
 
-
-
-
 @app.route('/image1',methods=['GET','POST'])# routes to the index html
 def image1():
     return render_template("Launch.html")
