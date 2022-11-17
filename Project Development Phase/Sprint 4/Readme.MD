@@ -20,16 +20,16 @@ The below listed are the tasks of Sprint 4
 
 
 ## BurnDown Chart
-![Alt text](images/burndown%20chart.jpeg)
+![Alt text](Images/burndown%20chart.jpeg)
 
 ## Sprint-4 Report
-![Alt text](images/report.jpeg)
+![Alt text](Images/report.jpeg)
 
 ## Cloud Account
 
 Below is the screenshot of our cloud account
 
-![Alt text](images/Cloud%20Account.jpeg)
+![Alt text](Images/Cloud%20Account.jpeg)
 
 
 
@@ -41,47 +41,47 @@ Below is the screenshot of our cloud account
 
 Below is the code snippet of model training in IBM Cloud
 
-![Alt text](images/model%20training.jpeg)
+![Alt text](Images/model%20training.jpeg)
 
-![Alt text](images/testing%20model.jpeg)
+![Alt text](Images/testing%20model.jpeg)
 
-![Alt text](images/IBM.jpeg)
+![Alt text](Images/IBM.jpeg)
 
 
-![Alt text](images/IBM%202.jpeg)
+![Alt text](Images/IBM%202.jpeg)
 
 ## Manipulating images through gestures
 
 Below is the code snippet for manipulating images
 
-![Alt text](images/manipulating%20images%20(1).jpeg)
+![Alt text](Images/manipulating%20images%20(1).jpeg)
 
 
-![Alt text](images/manipulating%20images%20(2).jpeg)
+![Alt text](Images/manipulating%20images%20(2).jpeg)
 
 
 ## Output of the model 
 
 Below is the output after manipulating images through gestures
 
-![Alt text](images/output%20(1).jpeg)
+![Alt text](Images/output%20(1).jpeg)
 
-![Alt text](images/output%20(2).jpeg)
+![Alt text](Images/output%20(2).jpeg)
 
-![Alt text](images/output%20(3).jpeg)
+![Alt text](Images/output%20(3).jpeg)
 
-![Alt text](images/output%20(4).jpeg)
+![Alt text](Images/output%20(4).jpeg)
  
  
 ## Deploy and Display
 
 Below is the screenshot of cloud deployment 
 
-![Alt text](images/cloud%20deploy.jpeg)
+![Alt text](Images/cloud%20deploy.jpeg)
 
 Below is the output of our complete project  
 
-![Alt text](images/output%20(3).jpeg) 
+![Alt text](Images/output%20(3).jpeg) 
 
 
 
