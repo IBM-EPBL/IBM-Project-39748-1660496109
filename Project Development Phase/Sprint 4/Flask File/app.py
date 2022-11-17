@@ -13,15 +13,6 @@ from werkzeug.utils import secure_filename
 
 import requests
 
-# NOTE: you must manually set API_KEY below using information retrieved from your IBM Cloud account.
-API_KEY = "JmljsAGRtavsQFxun8wZ3-IYeasMrcYL55NZxJKIRYZD"
-token_response = requests.post('https://iam.cloud.ibm.com/identity/token', data={"apikey":
- API_KEY, "grant_type": 'urn:ibm:params:oauth:grant-type:apikey'})
-mltoken = token_response.json()["access_token"]
-
-header = {'Content-Type': 'application/json', 'Authorization': 'Bearer ' + mltoken}
-
-
 app = Flask(__name__, static_url_path='/static')  
 app = Flask(__name__,template_folder="templates")
  # initializing a flask app
