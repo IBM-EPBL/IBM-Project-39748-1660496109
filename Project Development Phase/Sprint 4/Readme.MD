@@ -68,7 +68,6 @@ Below is the output after manipulating images through gestures
 
 ![Alt text](Images/output%20(2).jpeg)
 
-![Alt text](Images/output%20(3).jpeg)
 
 ![Alt text](Images/output%20(4).jpeg)
  
