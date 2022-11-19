@@ -84,7 +84,7 @@ SNS COLLEGE OF TECHNOLOGY
 - [Source Code](/Final%20Deliverables/Application)
 - [Cloud Model](/Final%20Deliverables/Application/Model)
 - [Project Report](/Final%20Deliverables/IBM-39748-1662630500%20-%20Project%20Report.pdf)
-- [Project Demo Link](https://drive.google.com/drive/folders/1ew61yx3w7OVdcz7S2NVzxr429P44PVrD?usp=share_link)
+- [Project Demo Link](https://tinyurl.com/PNT2022TMID17973)
 
 ## Screenshots of our Web UI
 
