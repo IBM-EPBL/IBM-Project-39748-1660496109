@@ -1,7 +1,7 @@
 # IBM-Project-39748-1660496109
 
-# A Gesture-based Tool for Sterile Browsing of Radiology Images [[Project link]](http://localhost:5000/)
-![Alt Text]()
+# A Gesture-based Tool for Sterile Browsing of Radiology Images 
+
 
 
 ## **Link for our Project**
