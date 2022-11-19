@@ -98,6 +98,6 @@ SNS COLLEGE OF TECHNOLOGY
 |||
 |:---:|:----:|
 |![Alt text](/Project%20Development%20Phase/Sprint%202/images/launch.jpeg)|![Alt text](/Project%20Development%20Phase/Sprint%202/images/test1.jpeg)|
-|![Alt text](/Project%20Development%20Phase/Sprint%202/images/test2.jpeg)||![Alt text](Project%20Development%20Phase/Sprint%202/images/test3.jpeg)|
+|![Alt text](/Project%20Development%20Phase/Sprint%202/images/test2.jpeg)||![Alt text](/Project%20Development%20Phase/Sprint%202/images/test3.jpeg)|
 
 
