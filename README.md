@@ -77,7 +77,7 @@ SNS COLLEGE OF TECHNOLOGY
 ## Project Final Deliverables
 
 - [Source Code](https://github.com/IBM-EPBL/IBM-Project-39748-1660496109)
-- [Project Report](https://github.com/IBM-EPBL/IBM-Project-39748-1660496109)
+- [Project Report](/Final%20Deliverables/IBM-39748-1662630500%20-%20Project%20Report.pdf)
 - [Project Demo Link](https://drive.google.com/drive/folders/1ew61yx3w7OVdcz7S2NVzxr429P44PVrD?usp=share_link)
 
 
