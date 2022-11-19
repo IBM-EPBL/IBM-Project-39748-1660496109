@@ -63,7 +63,7 @@ SNS COLLEGE OF TECHNOLOGY
 
  - [Team Leader : Nagul Pranav V S ]()
  - [Team member : Madhu Mitha K P](Assignment/Shiv%20Shastha/)
- - [Team member : Darunya S](Assignment/Thinaharish/)
+ - [Team member : Darunya S](/ASSIGNMENTS/DARUNYA%20S)
  - [Team member : Nidharshini M](Assignment/Saurav/)
 
 
