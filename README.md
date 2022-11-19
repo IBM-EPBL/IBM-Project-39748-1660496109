@@ -81,7 +81,7 @@ SNS COLLEGE OF TECHNOLOGY
 
 ## Project Final Deliverables
 
-- [Source Code](Project-Developement-Phase/sprint-1/)
+- [Source Code](https://github.com/IBM-EPBL/IBM-Project-39748-1660496109)
 - [Project Report](Project-Developement-Phase/sprint-1/)
 - [Project Demo Link](Project-Developement-Phase/sprint-1/)
 
