@@ -1,12 +1,12 @@
 # IBM-Project-39748-1660496109
 
-# A Gesture-based Tool for Sterile Browsing of Radiology Images [[Project link]](http://159.122.187.202:31326/)
-![Alt Text](Project-Developement-Phase/sprint-4/pic/demo.gif)
+# A Gesture-based Tool for Sterile Browsing of Radiology Images [[Project link]](http://localhost:5000/)
+![Alt Text]()
 
 
 ## **Link for our Project**
 ```
-http://159.122.187.202:31326/
+http://localhost:5000/
 ```
 
 
@@ -61,7 +61,7 @@ SNS COLLEGE OF TECHNOLOGY
 
 ## Assignment
 
- - [Team Leader : Nagul Pranav V S ](Assignment/Pradeep%20Ragul/)
+ - [Team Leader : Nagul Pranav V S ]()
  - [Team member : Madhu Mitha K P](Assignment/Shiv%20Shastha/)
  - [Team member : Darunya S](Assignment/Thinaharish/)
  - [Team member : Nidharshini M](Assignment/Saurav/)
