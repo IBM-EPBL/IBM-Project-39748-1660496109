@@ -4,11 +4,6 @@
 
 
 
-## **Link for our Project**
-```
-http://localhost:5000/
-```
-
 
 ## Project Description:
 
