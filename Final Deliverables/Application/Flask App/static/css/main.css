@@ -1,0 +1,15 @@
+.text-block {
+    position: absolute;
+    text-align: center;
+    color: white;
+    align-items: center;
+    align-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.nav-link:hover {
+    background-color: rgba(240, 248, 255, 0.341);
+}
