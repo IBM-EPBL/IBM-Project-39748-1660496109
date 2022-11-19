@@ -31,11 +31,11 @@ We use gestures in this project to browse images acquired through radiology. Ges
 
 **Team Leader :** Nagul Pranav V S
 
-**Team member :** Madhu Mitha K P
+**Team member 1 :** Madhu Mitha K P
 
-**Team member :** Darunya S
+**Team member 2 :** Darunya S
 
-**Team member :** Nidharshini M
+**Team member 3 :** Nidharshini M
 
 ---
 **Industry Mentor(s) Name :** Pradeepthi
