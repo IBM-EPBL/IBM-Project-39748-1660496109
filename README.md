@@ -69,10 +69,10 @@ SNS COLLEGE OF TECHNOLOGY
 - [Project Planning](/Project%20Design%20%26%20planning/Project_Planning)
 
 ## Project Development-Phase
-- [Sprint - 1](Project-Developement-Phase/sprint-1/)
-- [Sprint - 2](Project-Developement-Phase/sprint-2/)
-- [Sprint - 3](Project-Developement-Phase/sprint-3/)
-- [Sprint - 4](Project-Developement-Phase/sprint-4/)
+- [Sprint - 1](/Project%20Development%20Phase/Sprint%201)
+- [Sprint - 2](/Project%20Development%20Phase/Sprint%202)
+- [Sprint - 3](/Project%20Development%20Phase/Sprint%203)
+- [Sprint - 4](/Project%20Development%20Phase/Sprint%204)
 
 ## Project Final Deliverables
 
