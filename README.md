@@ -63,7 +63,7 @@ SNS COLLEGE OF TECHNOLOGY
 
 
 ## Pre-Development
-- [Ideation Phase](Pre-Development/Ideation%20Phase/)
+- [Ideation Phase](/Project%20Design%20%26%20planning/Ideation_phase)
 - [Project Design Phase 1](Pre-Development/Project-Design-Phase-I/)
 - [Project Design Phase II](Pre-Development/Project-Design-Phase-II/)
 - [Project Planning](Pre-Development/Project-Planning-Phase/)
